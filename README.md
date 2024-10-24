@@ -71,10 +71,6 @@ Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
--   This app was possible to make thanks to [mapLibre.org](https://maplibre.org/)
-
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
